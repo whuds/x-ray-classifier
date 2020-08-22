@@ -137,6 +137,9 @@ Figure 1. Image Credit to Cancer Research UK
     </div>
 
 
+
+### Notes on CNN model
+
 To run the CNN model, go inside cnn_model and run python train_CNN.py
 If you want to change some of the parameters, change the following as follow:
 
